@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infiniteloopltd/NPM-AvatarAPI.git"
+  },
+  "author": "Infinite Loop Development Ltd",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.1"
